@@ -1,4 +1,4 @@
-a:link,
+/* a:link,
 a:visited {
     color: var(--dark);
     padding: var(--spaceXS) var(--spaceMD);
@@ -16,4 +16,4 @@ a:active {
     color: var(--negative);
     background-color: var(--primaryHover);
     text-align: center;
-}
+} */
