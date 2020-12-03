@@ -1,7 +1,7 @@
 #navigation {
-    /* background-color: var(--negative);
+    background-color: var(--negative);
     box-shadow: var(--shadow);
-    border-radius: 0 0 var(--roundXL) var(--roundXL); */
+    border-radius: 0 0 var(--roundXL) var(--roundXL);
     position: fixed;
     top: 0;
     width: 100%;

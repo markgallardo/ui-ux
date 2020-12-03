@@ -1,10 +1,10 @@
-/* a:link,
+a:link,
 a:visited {
     color: var(--dark);
     padding: var(--spaceXS) var(--spaceMD);
     text-decoration: none;
     border-radius: var(--roundLG);
-    background-color: var(--light);
+    /* background-color: var(--light); */
     text-align: left;
     transform: scale(1);
     text-transform: lowercase;
@@ -16,4 +16,4 @@ a:active {
     color: var(--negative);
     background-color: var(--primaryHover);
     text-align: center;
-} */
+}
