@@ -1,4 +1,4 @@
-/* button {
+button {
     background: var(--accent);
     outline: none;
     border: none;
@@ -7,7 +7,7 @@
     cursor: pointer;
     border-radius: var(--roundLG);
     font-weight: var(--bold);
-    transform: scale(1);
+    /* transform: scale(1); */
     text-transform: lowercase;
 }
 
@@ -21,4 +21,4 @@ button:hover {
     button {
         width: 100%;
     }
-} */
+}
